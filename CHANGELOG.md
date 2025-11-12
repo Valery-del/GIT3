@@ -19,3 +19,7 @@ cat > CHANGELOG.md << 'EOF'
 ## [0.3.0] - 2025-11-12
 ### Added
 - GitLogParser
+
+## [0.3.0] - 2025-11-12
+### Added
+- GitLogParser
