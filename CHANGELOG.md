@@ -8,3 +8,6 @@ cat > CHANGELOG.md << 'EOF'
 ### Added
 - Инициализация проекта
 - Gradle, Git, структура
+## [0.2.0] - 2025-11-12
+### Added
+- Commit model
