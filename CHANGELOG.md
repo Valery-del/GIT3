@@ -11,3 +11,7 @@ cat > CHANGELOG.md << 'EOF'
 ## [0.2.0] - 2025-11-12
 ### Added
 - Commit model
+
+## [0.2.0] - 2025-11-12
+### Added
+- Commit model
